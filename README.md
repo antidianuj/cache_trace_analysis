@@ -119,7 +119,3 @@ The corresponding confusion matrices of the model predictions are shown as follo
 ![](confusion_matrices2.png)
 
 
-
-
-
-# Expecting result(future works and plan)
